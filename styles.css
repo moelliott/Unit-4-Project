@@ -1,0 +1,59 @@
+body{
+	background-color: #ff9ebb;
+}
+h1:hover{
+	color: lightpink;
+    background-color: violet;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+.pictures{
+    display: flex;
+    margin: 5px;
+    border: inset yellow 7px;
+    padding: 5px;
+    justify-content: space-around;
+}
+.Quotes{
+    border: groove #ff9efc 6px;
+	padding: 6px;
+    margin: 8px;
+    background-color: lightblue;
+}
+h3{
+	font-family: 'Raleway', sans-serif;
+}
+.happy{
+    background-color: pink;
+}
+.better{
+    background-color: purple;
+}
+.people{
+    background-color: hotpink;
+}
+.success{
+    background-color: violet;
+}
+h2:hover{
+    color: hotpink;
+    background-color: purple;
+    text-align: center;
+}
+p:hover{
+    background-color: #d940ff;
+    color: #ffffff;
+    font-family: 'Bodoni Moda', serif;
+}
+.search{
+    background-color: white;
+    display: flex;
+    margin: 5px;
+    border: solid black 4px;
+    padding: 5px;
+    justify-content: space-around;
+}
+.Best-Friends{
+	border: ridge 6px lightpink;
+    margin: 5px;
+}
